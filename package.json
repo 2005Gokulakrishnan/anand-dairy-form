@@ -1,0 +1,11 @@
+{
+  "name": "anand-dairy-farms-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static responsive website for Anand Dairy Farms",
+  "scripts": {
+    "dev": "python3 -m http.server 8080",
+    "serve": "python3 -m http.server 8080"
+  },
+  "dependencies": {}
+}
